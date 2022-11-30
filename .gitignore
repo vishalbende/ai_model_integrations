@@ -4,4 +4,4 @@
 __pycache__
 logs/*
 *.pyc
-
+.DS_Store
