@@ -24,3 +24,11 @@ where to access
 http://localhost:8000/docs
 
 ```
+
+
+## how to run streamlit
+
+```
+>> cd ui
+>> streamlit run main.py
+```
