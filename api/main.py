@@ -11,7 +11,7 @@ def _get_app():
     from api.v1 import router as models_router
 
     app = FastAPI(
-        title="Permissionless Models Integration Backend",
+        title="Models Integration Backend",
         openapi_tags=[
             {
                 "name": "Backend",
